@@ -69,9 +69,7 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=false&background=0D1117&ring=79A6F6&fire=79A6F6&currStreakLabel=79A6F6&sideLabels=C9D1D9&dates=C9D1D9" />
 
 </div>
 
