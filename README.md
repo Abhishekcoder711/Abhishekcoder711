@@ -1,7 +1,7 @@
 <h1 align="center">Abhishek Kumar Mishra</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=100&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Analyst" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Analyst" />
 </p>
 
 <p align="center">
@@ -10,15 +10,15 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/abhishek-kumar-mishra6/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://twitter.com/">
+<a href="https://x.com/Abhimishra_22">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
 </a>
 
-<a href="https://medium.com/">
+<a href="https://medium.com/@abhishekind711">
 <img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium"/>
 </a>
 
