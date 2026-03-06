@@ -25,8 +25,6 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 ### 💻 Tech Stack:
 
-### 💻 Tech Stack:
-
 #### 📊 Data Analysis & Programming
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -71,11 +69,11 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9)
+<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0d1117" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 </div>
 
