@@ -69,7 +69,7 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9" />
 
 </div>
 
