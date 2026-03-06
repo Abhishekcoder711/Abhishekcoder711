@@ -69,9 +69,9 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 <div align="center">
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=false&background=0D1117&ring=79A6F6&fire=79A6F6&currStreakLabel=79A6F6&sideLabels=C9D1D9&dates=C9D1D9" />
-</a>
+
+<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=false&background=0D1117&ring=79A6F6&fire=79A6F6&currStreakLabel=79A6F6&sideLabels=C9D1D9&dates=C9D1D9" />
+
 
 </div>
 
