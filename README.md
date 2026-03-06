@@ -67,25 +67,18 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekcoder711&theme=tokyo-night&hide_border=true"/>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekcoder711&theme=react-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Abhishekcoder711&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhishekcoder711&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+</p>
 
 ---
 
