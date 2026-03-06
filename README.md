@@ -1,8 +1,28 @@
-<div align="center">
-  
-# Abhishekcoder711
+<h1 align="center">Abhishek Kumar Mishra</h1>
 
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=F75C7E&center=true&vCenter=true&width=600&lines=Data+Analyst;Business+Analyst" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Abhishekcoder711">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://medium.com/">
+<img src="https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium"/>
+</a>
+
+</p>
 
 ---
 
