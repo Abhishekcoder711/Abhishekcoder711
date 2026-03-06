@@ -65,15 +65,25 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishekcoder711&theme=react-dark&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishekcoder711&theme=algolia&no-frame=true&no-bg=true&margin-w=10"/>
 
 </div>
 
