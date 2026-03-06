@@ -65,15 +65,11 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abhishekcoder711&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-<img src="https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0d1117" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishekcoder711&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abhishekcoder711&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
