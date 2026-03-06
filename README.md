@@ -109,8 +109,8 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=your-repo-1&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/your-repo-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=your-repo-2&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/your-repo-2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=your-repo-1&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/QuickChat)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=your-repo-2&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/ClimaView)
 
 </div>
 
