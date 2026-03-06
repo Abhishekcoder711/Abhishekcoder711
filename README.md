@@ -105,18 +105,6 @@ What drives me: Finding hidden trends in data and presenting them in a way that 
 
 ---
 
-### 🎯 Top Contributed Repos
-
-<div align="center">
-
-[![QuickChat](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=QuickChat&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/QuickChat)
-
-[![ClimaView](https://github-readme-stats.vercel.app/api/pin/?username=Abhishekcoder711&repo=ClimaView&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff)](https://github.com/Abhishekcoder711/ClimaView)
-
-</div>
-
----
-
 <div align="center">
   
 💬 Let's connect and build something amazing together!
