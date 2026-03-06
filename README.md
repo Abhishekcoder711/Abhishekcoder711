@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Mishra</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Analyst;Power+BI+%7C+SQL+%7C+Python+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Data+Analyst;Business+Analyst;Power+BI+%7C+SQL+%7C+Python+Enthusiast" />
 </p>
 
 <p align="center">
