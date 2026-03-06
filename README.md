@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+📊 Turning data into insights | 📈 Power BI dashboards | 🐍 Python for data analysis
+</p>
+
+<p align="center">
 
 <a href="https://www.linkedin.com/in/abhishek-kumar-mishra6/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -18,10 +22,6 @@
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-</p>
-
-<p align="center">
-📊 Turning data into insights | 📈 Power BI dashboards | 🐍 Python for data analysis
 </p>
 
 ---
