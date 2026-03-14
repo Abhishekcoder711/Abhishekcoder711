@@ -30,15 +30,13 @@
 
 ---
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=You+Should+Know+About+Me" />
-</p>
+###You Should Know About Me
 
-What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
+1. What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
 
-My toolkit: SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
+2. My toolkit: SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
 
-What drives me: Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
+3. What drives me: Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
 
 ---
 
