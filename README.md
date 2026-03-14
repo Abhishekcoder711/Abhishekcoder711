@@ -30,7 +30,7 @@
 
 ---
 
-###You Should Know About Me
+### You Should Know About Me
 
 1. What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
 
