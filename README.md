@@ -30,10 +30,9 @@
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=You+Should+Know+About+Me" />
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=You+Should+Know+About+Me" />
 </p>
-### 👋 You Should Know About Me:
 
 What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
 
