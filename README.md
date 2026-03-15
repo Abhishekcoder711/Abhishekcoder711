@@ -87,6 +87,11 @@
 ![SoapUI](https://img.shields.io/badge/SOAPUI-6DB33F?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/SELENIUM-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
+#### 📐 Mathematics & Statistical Foundations
+![Mathematics](https://img.shields.io/badge/MATHEMATICS-1F77B4?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/STATISTICS-FF7F0E?style=for-the-badge)
+![Probability](https://img.shields.io/badge/PROBABILITY-2CA02C?style=for-the-badge)
+
 ---
 
 ## 📊 GitHub Analytics
