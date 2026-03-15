@@ -32,13 +32,13 @@
 
 # 👤 You should know who I am
 
-➡ Get to Know Me# : MCA Graduate | Aspiring Data Analyst | Data Storyteller
+➡ Get to Know Me:- MCA Graduate | Aspiring Data Analyst | Data Storyteller
 
-➡ What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
+➡ What I work with:- Data cleaning, exploratory analysis, visualization, and dashboard development.
 
-➡ My toolkit: SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
+➡ My toolkit:- SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
 
-➡ What drives me: Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
+➡ What drives me:- Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
 
 ---
 
