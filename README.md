@@ -40,7 +40,7 @@
 
 ---
 
-### 🌐 Socials: Let's Connect Together
+# 🌐 Socials: Let's Connect Together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-kumar-mishra6/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekind711@gmail.com)
