@@ -30,13 +30,13 @@
 
 ---
 
-## You Should Know About Me
+### You Should Know About Me
 
-1. What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
+➡ What I work with: Data cleaning, exploratory analysis, visualization, and dashboard development.
 
-2. My toolkit: SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
+➡ My toolkit: SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
 
-3. What drives me: Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
+➡ What drives me: Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
 
 ---
 
