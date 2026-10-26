@@ -36,7 +36,7 @@
 
 ➡ What I work with:- Data cleaning, exploratory analysis, visualization, and dashboard development.
 
-➡ My toolkit:- SQL • Python • Power BI • Excel • Data Visualization • Statistical Analysis
+➡ My toolkit:- Excel • SAP S/4HANA • Power BI • SQL • Python • Supply Chain Operations • Data Visualization • Statistical Analysis
 
 ➡ What drives me:- Finding hidden trends in data and presenting them in a way that helps teams make confident decisions.
 
